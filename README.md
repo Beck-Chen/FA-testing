@@ -5,9 +5,9 @@ This project is consisted of a serial of shell scripts including:
   
   A. systeminfo.sh to gather system hardware/firmware configuration;
        
-       A1.BIOSinfo.sh
-       A2.BMCinfo.sh
-       A3.Procinfo.sh
+        A1.BIOSinfo.sh
+        A2.BMCinfo.sh
+        A3.Procinfo.sh
         A4.Meminfo.sh
         A5.Diskinfo.sh
         A6.NICinfo.sh
@@ -21,10 +21,14 @@ This project is consisted of a serial of shell scripts including:
         B4. nicstress.sh
         ...
         
+  
   C. compare configuration before and after burn-in test
+        
         c1.cmpconfig.sh
       
+ 
   D. log system
-        d1. testlog.sh
+       
+       d1. testlog.sh
      
          
