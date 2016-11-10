@@ -29,6 +29,6 @@ This project is consisted of a serial of shell scripts including:
  
   D. log system
        
-       d1. testlog.sh
+        d1. testlog.sh
      
          
