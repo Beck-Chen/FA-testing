@@ -24,11 +24,11 @@ This project is consisted of a serial of shell scripts including:
   
   C. compare configuration before and after burn-in test
         
-        c1.cmpconfig.sh
+        C1.cmpconfig.sh
       
  
   D. log system
        
-        d1. testlog.sh
+        D1. testlog.sh
      
          
